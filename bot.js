@@ -47,7 +47,7 @@ client.on('messageCreate', async (message, args) => {
 
 
 client.on('ready', () => {
-    client.user.setActivity("rootcf", { type: "STREAMING", url: "https://twitch.tv/rootcf" })
+    client.user.setActivity("efetemel", { type: "STREAMING", url: "https://twitch.tv/efetemel0" })
     console.log("Online!");
 })
 
